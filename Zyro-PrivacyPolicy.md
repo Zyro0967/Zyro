@@ -37,7 +37,7 @@
 #
 
 <div align="center">
-<a href="https://discord.com/invite/Pc96dVS6tS"><img src="https://invidget.switchblade.xyz/FCP2HWksBU"/></a>
+<a href="https://discord.com/invite/Pc96dVS6tS"><img src="https://invidget.switchblade.xyz/Pc96dVS6tS"/></a>
 <br></br>
 
 <a href="https://discord.com/invite/Pc96dVS6tS">
