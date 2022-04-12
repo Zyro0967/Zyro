@@ -23,12 +23,12 @@
 > - [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) checks it rarely when adding new features to the bot, and when the data was stored by mistake by new features they try to correct them and make the features work, and **NOTE** they don't check the data of `economy`, `Levels/Xps` or other commands which were made long ago, but only the new commands which are being made!
 
 ```
-                                                      Forth Yet: How we use the data?
+                                                      Yep its Forth: How we use the data?
 ```
 > - 
 > - We save the data in [MongoDB](https://www.mongodb.com/), So when people use the Command we can **Fetch the Data** Respectively.
 
 ```
-                                                      Last Here Comes: How can I delete my data?
+                                                      **Least but not Last maybe**: How can I delete my data?
 ```
 > - **You can Open a Ticket in the** [Support Server](https://discord.gg/Pc96dVS6tS) **and Contact** [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064)!
