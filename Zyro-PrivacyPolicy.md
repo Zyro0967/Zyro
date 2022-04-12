@@ -25,10 +25,22 @@
 ```
                                                       Yep its Forth: How we use the data?
 ```
-> - 
-> - We save the data in [MongoDB](https://www.mongodb.com/), So when people use the Command we can **Fetch the Data** Respectively.
+> - As its mentioned above (again), We use the data accordingly stored when used the command by the user
+> - Which means when a user executes `/daily` or `/profile` we fetch the data from the database and the bot responds accordingly
+> - Also, Yes We save the data in [MongoDB](https://www.mongodb.com/), So when people use the command (mentioned above), we can **Fetch the Data** Respectively and sent when executed the specific command.
 
 ```
-                                                      **Least but not Last maybe**: How can I delete my data?
+                                                      Least but not Last maybe: How can I delete my data?
 ```
 > - **You can Open a Ticket in the** [Support Server](https://discord.gg/Pc96dVS6tS) **and Contact** [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064)!
+
+#
+
+<div align="center">
+<a href="https://discord.com/invite/Pc96dVS6tS"><img src="https://invidget.switchblade.xyz/FCP2HWksBU"/></a>
+<br></br>
+
+<a href="https://discord.com/invite/Pc96dVS6tS">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+  </div>
