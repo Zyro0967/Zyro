@@ -50,6 +50,6 @@
 <br></br>
 
 <a href="https://discord.com/invite/Pc96dVS6tS">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+    <img src="https://cdn.discordapp.com/attachments/888334611313201153/963420722955423754/unknown.png" alt="Discord" width="80"/>
   </a>
   </div>
