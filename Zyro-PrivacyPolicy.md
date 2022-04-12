@@ -50,7 +50,9 @@ If you have specific questions about our privacy policy you can simply join our 
 ```
  1. What We Store?
 ```
-> - At first the data we use like **User Levels/XPs** for that we require the **Guild IDs** since leveling is only made for the server you use the bot in.. That means the **Levels/XPs** Whats being displayed when you use `/rank` or `/leaderboard` will not show the same in other server. And next comes the **User IDs** As I told above **Levels/XPs** need Guild IDs and it requires the User IDs too because 
+> - At first the data we use like **User Levels/XPs** for that we require the **Guild IDs** since leveling is only made for the server you use the bot in.. That means the **Levels/XPs** Whats being displayed when you use `/rank` or `/leaderboard` will not show the same in other server. 
+
+> And next comes the **User IDs** As I told above **Levels/XPs** need Guild IDs and it requires the User IDs too because we store the **Levels/XPs** data in the user ID in the database, and yes **Economy** of Zyro is also included in this.. in economy there are commands which require userIDs.. example: /daily
 
 ```
  2. Who Can Access It?
