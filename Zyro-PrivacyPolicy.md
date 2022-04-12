@@ -13,28 +13,35 @@
                                                   Second of all: - Who Can Access It?
 ```
 > - You might be thinking who can access all of the data shown above, don't worry we don't leak your data and its kept safe in the database!
+> 
 > - Your data can't and won't be used maliciously and only the bot **Owner** who is [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) can only access it so that its safe!
 
 ```
                                                   Third: - Do we share the stored data?
 ```
 > - Many of you might be thinking that we share this data, leak it and hack accounts.. No, **We Don't do that**!
+> 
 > - We keep the data safe very safe with extra protection and yes The BOT owner who is [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) also doesn't check it often
+> 
 > - [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) checks it rarely when adding new features to the bot, and when the data was stored by mistake by new features they try to correct them and make the features work, and **NOTE** they don't check the data of `economy`, `Levels/Xps` or other commands which were made long ago, but only the new commands which are being made!
 
 ```
                                                   Yep its Forth: How we use the data?
 ```
 > - As its mentioned above (again), We use the data accordingly stored when used the command by the user
+> 
 > - Which means when a user executes `/daily` or `/profile` we fetch the data from the database and the bot responds accordingly
+> 
 > - Also, Yes We save the data in [MongoDB](https://www.mongodb.com/), So when people use the command (mentioned above), we can **Fetch the Data** Respectively and sent when executed the specific command.
 
 ```
                                                   Least but not Last maybe: How can I delete my stored data?
 ```
 > - Hmm.. One idea 💡! You can contact the Zyro's Owner [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064)!
+> 
 > - 😅 2 ideas actually.. Second one: **You can Open a Ticket in the** [Support Server](https://discord.gg/Pc96dVS6tS) **and ping** [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064)!
-> - Hey listen spamming will get you banned and also the staff is strict but no problem! [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) can handle it ;)
+> 
+> - Hey listen spamming will get you banned but no problem maybe ping [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) in DMs? they can handle it ;)
 
 #
 
