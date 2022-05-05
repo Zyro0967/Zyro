@@ -13,7 +13,7 @@
 ```
 > - You might be thinking who can access all of the data shown above, don't worry we don't leak your data and its kept safe in the database!
 > 
-> - Your data can't and won't be used maliciously and only the bot **Owner** who is [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) can only access it so that its safe!
+> - Your data can't and won't be used maliciously its end-to-endcrypted safely in the computer of the owner and only the bot **Owner** who is [Ꮭ 8 Ꮶ Ꭵ#6658](https://discord.com/users/872442836166017064) can only access it so that its safe!
 ```
 3. Does the Stored Data get Shared or something?
 ```
